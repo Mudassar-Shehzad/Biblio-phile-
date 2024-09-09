@@ -34,7 +34,7 @@ Follow these steps to clone and run the project on your local machine:
    
 1. **Close the repositry**:
    ```bash
-   git clone https://github.com/Mudassar-Shehzad/Biblio-phile.git
+   git clone https://github.com/Mudassar-Shehzad/Biblio-phile-.git
 2. **Navigate to the project folder**:
    ```bash
    cd Biblio-phile
