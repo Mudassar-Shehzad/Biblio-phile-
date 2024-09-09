@@ -25,13 +25,18 @@ Follow these steps to clone and run the project on your local machine:
 1. **Clone the repository**:
    ```bash
     git clone https://github.com/Mudassar-Shehzad/Biblio-phile.git
+   
 2. **Navigate to the project folder**:
    ```bash
     cd Biblio-phile
+   
  3. **Install Dependencies**:
    ```bash
     npm install
-4. **Start the development server**:
+
+4. **Run the development server**:
    ```bash
     npm run dev
+
+
 
