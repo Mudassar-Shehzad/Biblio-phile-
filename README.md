@@ -16,7 +16,7 @@ Bibliophile is a modern, user-friendly e-commerce platform designed for book lov
 
 - **Frontend**: React, CSS3, HTML5
 - **Backend**: Firebase (Authentication, Firestore, Hosting)
-- **State Management**: React's useState and Context API
+- **State Management**: React's useState and Redux toolkit
 
 ## ⚙️ How to Run Locally
 
@@ -31,7 +31,7 @@ Follow these steps to clone and run the project on your local machine:
  3. **Install Dependencies**:
    ```bash
     npm install
-1. **Start the development server**:
+4. **Start the development server**:
    ```bash
     npm run dev
 
