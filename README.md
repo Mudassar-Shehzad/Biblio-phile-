@@ -22,19 +22,18 @@ Bibliophile is a modern, user-friendly e-commerce platform designed for book lov
 
 Follow these steps to clone and run the project on your local machine:
    
-1. **Clone the repository**:
+1. **Close the repositry**:
    ```bash
-    git clone https://github.com/Mudassar-Shehzad/Biblio-phile.git
-   
+   git clone https://github.com/Mudassar-Shehzad/Biblio-phile.git
 2. **Navigate to the project folder**:
    ```bash
-    cd Biblio-phile
-   
- 3. **Install Dependencies**:
+   cd Biblio-phile
+3. **Install dependencies**:
    ```bash
-    npm install
-
-
+   npm install   
+4. **Run the developement server**:
+   ```bash
+   npm run dev
 
 
 
