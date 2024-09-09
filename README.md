@@ -21,7 +21,7 @@ Bibliophile is a modern, user-friendly e-commerce platform designed for book lov
 ## ⚙️ How to Run Locally
 
 Follow these steps to clone and run the project on your local machine:
-
+   
 1. **Clone the repository**:
    ```bash
     git clone https://github.com/Mudassar-Shehzad/Biblio-phile.git
@@ -34,9 +34,8 @@ Follow these steps to clone and run the project on your local machine:
    ```bash
     npm install
 
-4. **Run the development server**:
-   ```bash
-    npm run dev
+
+
 
 
 
